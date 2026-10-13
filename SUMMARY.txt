@@ -1,5 +1,5 @@
 ================================================================================
-CLAUDE OPUS 5 SECURITY ASSESSMENT - EXECUTIVE SUMMARY
+CLAUDE 3.5 Sonnet SECURITY PROJECT - EXECUTIVE SUMMARY
 ================================================================================
 
 Project: Comprehensive LLM Security Testing with NVIDIA Garak
