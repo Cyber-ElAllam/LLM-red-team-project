@@ -1,4 +1,4 @@
-# Security Assessment: Claude Opus 5 Vulnerability Testing
+# Security Assessment: Claude 3.5 Sonnet Vulnerability Testing
 
 **Date:** 2026-10-07
 **Tool:** NVIDIA Garak v0.17.0 (LLM Vulnerability Scanner)
@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-A comprehensive security assessment was conducted using NVIDIA Garak against Claude Opus 5 to identify vulnerabilities to prompt injection, jailbreaks, and adversarial attacks.
+A comprehensive security assessment was conducted using NVIDIA Garak against Claude 3.5 Sonnet 5 to identify vulnerabilities to prompt injection, jailbreaks, and adversarial attacks.
 
 | Metric | Result |
 |--------|--------|
