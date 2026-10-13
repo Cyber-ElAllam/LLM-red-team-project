@@ -8,7 +8,7 @@ I ran NVIDIA Garak against Anthropic's Claude Opus 5 to test how it handles adap
 |--------|--------|
 | **Testing Tool** | NVIDIA Garak v0.17.0 |
 | **Target Model** | Anthropic Claude Opus 5 (`claude-opus-5`) |
-| **Scan Date** | October 7, 2026 (about 1 hour 47 minutes) |
+| **Scan Date** | October 7, 2026 |
 | **Unique Prompts Sent** | 478 across 5 probes |
 | **Responses Scored** | 469 (see Limitations) |
 | **Responses Flagged by Garak** | 335 |
@@ -99,6 +99,8 @@ garak --target_type anthropic --target_name claude-opus-5 \
 - [NVIDIA Garak](https://github.com/NVIDIA/garak)
 - [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/llm-top-10/)
 - [Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://arxiv.org/abs/2404.02151)
+- [Prompt Injection Research](https://arxiv.org/abs/2404.02151)
+- [Claude API Documentation](https://docs.anthropic.com/)
 
 ## License
 
