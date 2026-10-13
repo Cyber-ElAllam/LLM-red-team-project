@@ -18,7 +18,7 @@ A comprehensive security assessment was conducted using NVIDIA Garak against Cla
 
 ## Overall Result
 
-✅ **ROBUST DEFENSE**: Claude Opus 5 successfully blocked all tested adversarial attacks with a 100% mitigation rate.
+✅ **ROBUST DEFENSE**: Claude 3.5 Sonnet 5 successfully blocked all tested adversarial attacks with a 100% mitigation rate.
 
 ---
 
@@ -85,7 +85,7 @@ Probes designed to extract API credentials:
 
 ## Security Implications
 
-The 100% mitigation rate across all tested vectors indicates that Claude Opus 5 has:
+The 100% mitigation rate across all tested vectors indicates that Claude 3.5 Sonnet 5 has:
 
 1. **Strong Input Validation**: Effectively filters prompt injection attempts
 2. **Robust System Prompt Protection**: Maintains instruction hierarchy even under adversarial pressure
@@ -117,7 +117,7 @@ This assessment addresses several OWASP LLM Top 10 risks:
 
 ## Conclusion
 
-Claude Opus 5 demonstrates robust security against a comprehensive suite of LLM-specific attacks. The model successfully maintains its safety constraints even under sophisticated adversarial prompts designed to bypass guardrails.
+Claude 3.5 Sonnet 5 demonstrates robust security against a comprehensive suite of LLM-specific attacks. The model successfully maintains its safety constraints even under sophisticated adversarial prompts designed to bypass guardrails.
 
 
 **Scan Duration:** ~3 hours
