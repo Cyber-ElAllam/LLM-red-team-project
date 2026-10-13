@@ -49,7 +49,7 @@ III- **ANSI Escape Sequence Mitigation**
 
 - **garak_results/** - Raw Garak output files
   - `report.jsonl` - Complete attempt records (943 entries)
-  - `hitlog.jsonl` - Hit records (0 vulnerabilities found)
+  - No `hitlog.jsonl`: Garak only writes one when a probe bypasses the model, and no bypasses occurred.
 
 - **scripts/** - Analysis tools
   - `parse_garak.py` - Parse and extract findings from JSONL files
