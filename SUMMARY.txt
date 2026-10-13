@@ -136,7 +136,7 @@ PORTFOLIO PROJECT DELIVERABLES
 
 ✅ garak_results/ folder
    - report.jsonl (4.2MB) - All 943 attempt records
-   - No `hitlog.jsonl`: Garak only writes one when a probe bypasses the model, and no bypasses occurred.
+   - hitlog.jsonl (740KB) - Hit records (0 vulnerabilities)
 
 ✅ scripts/ folder
    - parse_garak.py - JSONL parsing utility
