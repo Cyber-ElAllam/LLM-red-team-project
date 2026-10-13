@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-A comprehensive security assessment was conducted using NVIDIA Garak against Claude 3.5 Sonnet 5 to identify vulnerabilities to prompt injection, jailbreaks, and adversarial attacks.
+A comprehensive security assessment was conducted using NVIDIA Garak against Claude 3.5 Sonnet to identify vulnerabilities to prompt injection, jailbreaks, and adversarial attacks.
 
 | Metric | Result |
 |--------|--------|
@@ -18,7 +18,7 @@ A comprehensive security assessment was conducted using NVIDIA Garak against Cla
 
 ## Overall Result
 
-✅ **ROBUST DEFENSE**: Claude 3.5 Sonnet 5 successfully blocked all tested adversarial attacks with a 100% mitigation rate.
+✅ **ROBUST DEFENSE**: Claude 3.5 Sonnet successfully blocked all tested adversarial attacks with a 100% mitigation rate.
 
 ---
 
