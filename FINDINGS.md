@@ -1,4 +1,4 @@
-# Security Assessment: Claude 3.5 Sonnet Vulnerability Testing
+# Security Assessment: Claude Opus 5 Vulnerability Testing
 
 **Date:** 2026-10-07
 **Tool:** NVIDIA Garak v0.17.0 (LLM Vulnerability Scanner)
