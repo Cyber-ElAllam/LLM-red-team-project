@@ -81,7 +81,7 @@ III- **ANSI Escape Sequence Mitigation**
 
 ```yaml
 Framework: ProbewiseHarness
-Generator: Anthropic API (claude-3-5-sonnet-20241022)
+Generator: Anthropic API (claude-opus-5)
 Generations per Probe: 5
 Max Tokens: 150
 Temperature: Default (varied by probe)
