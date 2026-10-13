@@ -1,6 +1,6 @@
 # Claude 3.5 Sonnet Security Assessment: Garak Vulnerability Testing
 
-I conducted a security assessment of Claude Opus 5 using NVIDIA Garak, testing the model against 943 adversarial attack vectors spanning prompt injection, jailbreaks, and credential extraction. This project documents the findings and analyzes the defense mechanisms that enable the model's resilience against known LLM threats.
+I conducted a security assessment of Claude 3.5 Sonnet using NVIDIA Garak, testing the model against 943 adversarial attack vectors spanning prompt injection, jailbreaks, and credential extraction. This project documents the findings and analyzes the defense mechanisms that enable the model's resilience against known LLM threats.
 
 ## Assessment Overview
 
