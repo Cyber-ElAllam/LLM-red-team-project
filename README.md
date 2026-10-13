@@ -9,7 +9,6 @@ I conducted a security assessment of Claude Opus 5 using NVIDIA Garak, testing t
 | **Testing Tool** | NVIDIA Garak v0.17.0 |
 | **Target Model** | Anthropic Claude 3.5 Sonnet |
 | **Total Attack Vectors** | 943 |
-| **Test Duration** | ~2 hours |
 | **Vulnerabilities Found** | 0 |
 | **Mitigation Success Rate** | 100% |
 
