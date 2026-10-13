@@ -138,7 +138,7 @@ pip install garak
 
 # Run assessment (requires Anthropic API key)
 garak --model_type anthropic --model_name claude-3-5-sonnet-20241022 \
-      --spec S --report_prefix claude_opus5_assessment
+      --spec S --report_prefix claude_sonnet_assessment
 
 # Parse results with provided script
 python scripts/parse_garak.py
