@@ -2,7 +2,7 @@
 
 ## Root Cause Analysis
 
-### Why Claude 3.5 Sonnet Successfully Defended Against All Attacks
+### Why Claude Opus 5 Successfully Defended Against All Attacks
 
 #### 1. System Prompt Integrity
 Claude implements a multi-layered approach to system prompt protection:
@@ -135,7 +135,7 @@ While this assessment found 0 vulnerabilities, potential areas for additional mo
 
 ## Conclusion
 
-Claude 3.5 Sonnet demonstrates exceptional resilience against known LLM attack vectors. The combination of:
+Claude Opus 5 demonstrates exceptional resilience against known LLM attack vectors. The combination of:
 1. Strong instruction hierarchy
 2. Semantic-level understanding of harmful intent
 3. Proper architectural separation of concerns
@@ -143,11 +143,11 @@ Claude 3.5 Sonnet demonstrates exceptional resilience against known LLM attack v
 
 ...results in a model that maintains its safety constraints even under sophisticated and varied adversarial attacks.
 
-**Recommendation:** Claude 3.5 Sonnet is suitable for deployment in security-sensitive contexts with appropriate monitoring and standard operational security practices.
+**Recommendation:** Claude Opus 5 is suitable for deployment in security-sensitive contexts with appropriate monitoring and standard operational security practices.
 
 ---
 
 **Report Generated:** October, 2026
 **Assessment Tool:** NVIDIA Garak v0.17.0
-**Model:** Anthropic Claude 3.5 Sonnet
+**Model:** Anthropic Claude Opus 5
 **Framework:** OWASP LLM Top 10
