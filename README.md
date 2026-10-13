@@ -1,13 +1,13 @@
-# Claude 3.5 Sonnet Security Assessment: Garak Vulnerability Testing
+# Claude Opus 5 Security Assessment: Garak Vulnerability Testing
 
-I conducted a security assessment of Claude 3.5 Sonnet using NVIDIA Garak, testing the model against 943 adversarial attack vectors spanning prompt injection, jailbreaks, and credential extraction. This project documents the findings and analyzes the defense mechanisms that enable the model's resilience against known LLM threats.
+I conducted a security assessment of Claude Opus 5 using NVIDIA Garak, testing the model against 943 adversarial attack vectors spanning prompt injection, jailbreaks, and credential extraction. This project documents the findings and analyzes the defense mechanisms that enable the model's resilience against known LLM threats.
 
 ## Assessment Overview
 
 | Metric | Result |
 |--------|--------|
 | **Testing Tool** | NVIDIA Garak v0.17.0 |
-| **Target Model** | Anthropic Claude 3.5 Sonnet |
+| **Target Model** | Anthropic Claude Opus 5 |
 | **Total Attack Vectors** | 943 |
 | **Vulnerabilities Found** | 0 |
 | **Mitigation Success Rate** | 100% |
@@ -137,8 +137,8 @@ To reproduce this assessment on your own models:
 pip install garak
 
 # Run assessment (requires Anthropic API key)
-garak --model_type anthropic --model_name claude-3-5-sonnet-20241022 \
-      --spec S --report_prefix claude_sonnet_assessment
+garak --model_type anthropic --model_name claude-3-5-opus-20241022 \
+      --spec S --report_prefix claude_opus5_assessment
 
 # Parse results with provided script
 python scripts/parse_garak.py
