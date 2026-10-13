@@ -180,6 +180,6 @@ This assessment and documentation are provided for educational and portfolio pur
 
 **Assessment Date:** October, 2026  
 **Tool Version:** NVIDIA Garak v0.17.0  
-**Model Tested:** Anthropic Claude 3.5 Sonnet  
+**Model Tested:** Anthropic Claude opus 5 
 **Status:**  Complete
 
