@@ -8,7 +8,7 @@ I ran NVIDIA Garak against Anthropic's Claude Opus 5 to test how it handles adap
 |--------|--------|
 | **Testing Tool** | NVIDIA Garak v0.17.0 |
 | **Target Model** | Anthropic Claude Opus 5 (`claude-opus-5`) |
-| **Scan Date** | October 7, 2026 (about 1 hour 47 minutes) |
+| **Scan Date** | October 7, 2026 |
 | **Unique Prompts Sent** | 478 across 5 probes |
 | **Responses Scored** | 469 (see Limitations) |
 | **Responses Flagged by Garak** | 335 |
