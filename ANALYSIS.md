@@ -2,7 +2,7 @@
 
 ## Root Cause Analysis
 
-### Why Claude Opus 5 Successfully Defended Against All Attacks
+### Why Claude 3.5 Sonnet Successfully Defended Against All Attacks
 
 #### 1. System Prompt Integrity
 Claude implements a multi-layered approach to system prompt protection:
